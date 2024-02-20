@@ -60,6 +60,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.TextFieldValue
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
@@ -80,6 +81,7 @@ import app.waste2wealth.com.ui.theme.monteSB
 import app.waste2wealth.com.ui.theme.textColor
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
 import com.google.accompanist.permissions.rememberMultiplePermissionsState
+import com.google.firebase.annotations.PreviewApi
 import com.google.firebase.storage.FirebaseStorage
 import kotlinx.coroutines.launch
 import java.io.ByteArrayOutputStream
@@ -134,7 +136,7 @@ fun AllActivities(
     PermissionDrawer(
         drawerState = permissionDrawerState,
         permissionState = permissionState,
-        rationaleText = "To continue, allow Report Waste2Wealth to access your device's location" +
+        rationaleText = "To continue, allow Report WasteWise to access your device's location" +
                 ". Tap Settings > Permission, and turn \"Access Location On\" on.",
         withoutRationaleText = "Location permission required for functionality of this app." +
                 " Please grant the permission.",
@@ -444,7 +446,7 @@ fun RepeatingActivity(
                         onRadioClick()
                     },
                     colors = RadioButtonDefaults.colors(
-                        selectedColor = Color(0xFFFD5065),
+                        selectedColor = Color(0xFFFF7200),
                         unselectedColor = Color.Gray
                     ),
                 )

@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "335998282585",
-    "project_id": "waste2wealth-225f8",
-    "storage_bucket": "waste2wealth-225f8.appspot.com"
+    "project_number": "986807811559",
+    "project_id": "waste-wise-d5b1b",
+    "storage_bucket": "waste-wise-d5b1b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:335998282585:android:4425df7537fd6d64b93a48",
+        "mobilesdk_app_id": "1:986807811559:android:18bcb32631196b7feb9142",
         "android_client_info": {
           "package_name": "app.waste2wealth.com"
         }
       },
       "oauth_client": [
         {
-          "client_id": "335998282585-ffdp7jqlc8tqu56dqj2j7ifflp67tu12.apps.googleusercontent.com",
+          "client_id": "986807811559-9hrdaji7k4gv2hvnebhkojme4qc9dvpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.waste2wealth.com",
+            "certificate_hash": "e649290f39ce342776b78fecc38357c03b181e54"
+          }
+        },
+        {
+          "client_id": "986807811559-dijusl88ae8spnn4tmkv4see2t1bilg2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAK61PJcM4_3fXrsaMG_l07lOGgBhB2KJE"
+          "current_key": "AIzaSyB5lNV72ZN3NXxQl0q9saQa8G7gEjw9TDk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "335998282585-ffdp7jqlc8tqu56dqj2j7ifflp67tu12.apps.googleusercontent.com",
+              "client_id": "986807811559-dijusl88ae8spnn4tmkv4see2t1bilg2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
