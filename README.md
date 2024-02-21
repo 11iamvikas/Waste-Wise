@@ -49,6 +49,11 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________
 ![alt text](https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=Kotlin) ![alt text](https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=Firebase) ![alt text](https://img.shields.io/badge/GoogleCloud-FFFFFF?style=for-the-badge&logo=GoogleCloud) ![alt text](https://img.shields.io/badge/JetpackCompose-FFFFFF?style=for-the-badge&logo=JetpackCompose)
 
+![Screenshot_20240217-111709](https://github.com/11iamvikas/Waste-Wise/assets/123629697/261bf353-1338-416a-9faa-f1b337409ef6)
+![Screenshot_20240217-111831](https://github.com/11iamvikas/Waste-Wise/assets/123629697/f6431634-42e1-4c41-8d4c-0408811c2611)
+![Screenshot_20240217-143615](https://github.com/11iamvikas/Waste-Wise/assets/123629697/351cd57d-fcab-4bd9-a7f3-b94e51979944)
+![Screenshot_20240217-143623](https://github.com/11iamvikas/Waste-Wise/assets/123629697/5e4f5163-247e-4335-bc01-301945bb8312)
+![Screenshot_20240217-143642](https://github.com/11iamvikas/Waste-Wise/assets/123629697/ff2b511d-f7b0-44ab-90e0-7ddd25f128d3)
 
 ## Steps to run this:
 1) Push this to your android studio
